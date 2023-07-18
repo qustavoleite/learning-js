@@ -9,8 +9,8 @@
 |---|---|
 |[Tipos de dados](#)|✅|
 |[Variáveis](#)|✅|
-|[Fuções](#)||
-|[Manipulando dados](#)||
+|[Fuções](#)|✅|
+|[Manipulando dados](#)|✅|
 |[Expressões e operadores](#)||
 |[Condicionais e controle de fluxo](#)||
 |[Estruturas de repetição](#)||
