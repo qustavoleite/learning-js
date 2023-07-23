@@ -14,10 +14,9 @@
 |[Funções](#)|✅|
 |[Manipulando dados](#)|✅|
 |[Expressões e operadores](#)|✅|
-|[Condicionais e controle de fluxo](#)||
-|[Estruturas de repetição](#)||
+|[Condicionais e controle de fluxo](#)|✅|
+|[Estruturas de repetição](#)|✅|
 </details>
-
 ## 
 
 <details>
