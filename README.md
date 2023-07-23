@@ -17,7 +17,6 @@
 |[Condicionais e controle de fluxo](#)|✅|
 |[Estruturas de repetição](#)|✅|
 </details>
-## 
 
 <details>
 <summary></summary>
