@@ -16,7 +16,6 @@ Repositório dedicado para auxiliar nos meus estudos, registrar meus aprendizado
 |Estruturas de repetição|✅|
 <!-- |[exemplo](#)|✅| -->
 </details>
-<br>
 <details>
 <summary>Em breve</summary>
 
