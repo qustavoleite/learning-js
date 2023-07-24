@@ -1,5 +1,5 @@
 <h2 align="center">Aprendendo Javascript</h2>
-Repositório dedicado para auxiliar nos meus estudos e registrar meus aprendizados, conhecimentos em Javascript.
+Repositório dedicado para auxiliar nos meus estudos, registrar meus aprendizados e conhecimentos em Javascript.
 
 <h3>Conteúdos estudados:</h3>
 <details>
@@ -30,7 +30,7 @@ Repositório dedicado para auxiliar nos meus estudos e registrar meus aprendizad
 |[]()||
 |[]()||
 </details>
-<br>
+
 <hr>
 
 <h3>Práticas estudadas:</h3>
