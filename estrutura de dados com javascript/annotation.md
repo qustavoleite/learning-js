@@ -1,37 +1,18 @@
 ## estrutura de dados
 
-> por que estudar?
-- organizar dados da aplicação
-- entender estruturas
-- escrvever melhores algoritmos
-- eficiência
-<br><br>
-
->desafios diários do uso de dados:
-- entendimento de como stão nossos dados na aplicação
-- criar listas (ordernadas, não ordenadas)
-- repetição ou nao dos dados dentro da estrutura
-- organizar os dados pelo par identificador + valor
-<br><br>
-
 >o que é estrutura de dados?
 
 é uma maneira de organizar e ordenar informações como textos, números, booleanos, etc e registrá-los na memória do computador.
 
 💡imagine um guarda-roupa. o guarda-roupa será a estrutura e as roupas serão os dados.
-
-- organizar dados (informações)
-- como estão registrados na memória
 <br><br>
 
-```js
-//array
-[1, 2, 3] //elementos 1, 2, 3
-
-//object
-{name: 'Fulano', age: 20} //elemntos name: 'Fulano', age: 20
-```
-<br>
+>desafios diários do uso de dados:
+- entendimento de como estão nossos dados na aplicação.
+- criar listas (ordernadas, não ordenadas).
+- repetição ou nao dos dados dentro da estrutura.
+- organizar os dados pelo par identificador + valor.
+<br><br>
 
 > gerenciando dados
 
@@ -52,7 +33,7 @@ array ou vetor, é uma estrutura amplamente utilizada e implementada em quase to
 ```
 <br>
 
-> características
+> características do array
 
 - acesso pelo index.
 - respeita a ordem de inserção dos elementos (do jeito que eu inserir, ele vai aceitar).
@@ -60,14 +41,12 @@ array ou vetor, é uma estrutura amplamente utilizada e implementada em quase to
 - dependendo do tamanho do array, para encontrar ou deletar um número, será necessário um uso maior de perfomance.
 <br><br>
 
-> arrays no javascript
+> array no javascript
 
 - são dinamicos.
 - você poderá ter dados de diferentes tipos misturados dentro de um array, tipo string, number, boolean, objetos, funções e até outros arrays.
 - existem muitos métodos ja implementados. por exemplo: pop(), push(), find(), filter() e etc.
-<br><br>
-
-> array no código
+<br>
 
 exemplo de array no código: [aqui](/code//array-methods.js)
 <br><br>
@@ -89,19 +68,17 @@ stack significa pilha (linear: um após o outro). stack é uma coleção de elem
 
 > conceitos fundamentais da stack
 
-
 - push(): adiciona um elemento à pilha.
 - pop(): remove o elemento do topo da pilha.
 - peek(): obter o elemento do topo da pilha.
-
-outros métodos poderão ser implementados, por exemplo size(), para mostrar o tamanho da pilha.
+- size(): mostrar o tamanho da pilha.
 
 exemplo de stack no código: [aqui](/code/stack.js)
 <br><br>
 
 > queue
 
-queue significa fila, queue (linear: um após o outro). é uma coleção ordenada de elementos onde a inserção ocorre no final da fila e a remoção ocorre no início da fila, seguindo o princípio "primeiro a entrar, primeiro a sair" (FIFO - First In, First Out).
+queue significa fila (linear: um após o outro). queue é uma coleção ordenada de elementos onde a inserção ocorre no final da fila e a remoção ocorre no início da fila, seguindo o princípio "primeiro a entrar, primeiro a sair" (FIFO - First In, First Out).
 <br><br>
 
 <img src="./img/queue.png">
@@ -122,8 +99,7 @@ métodos fundamentais:
 
 - enqueue(): adicinar um elemento ao final da fila.
 - dequeue(): remover o primeiro elemento a entrar na fila.
-
-outros métodos poderão ser implementados como size() para mostrar o tamanho da fila ou front() para pegar o primeiro elemento da fila, dentre outros.
+- front(): pega o primeiro elemento da fila.
 
 exemplo do queue no código: [aqui](/code/queue.js)
 <br><br>
