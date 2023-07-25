@@ -1,4 +1,4 @@
-## estrutua de dados
+## estrutura de dados
 
 > por que estudar?
 - organizar dados da aplicação
