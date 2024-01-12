@@ -34,4 +34,5 @@ Repositório dedicado para auxiliar nos meus estudos, registrar meus aprendizado
 
 <h3>Práticas estudadas:</h3>
 
-[Estrutura de dados com javascript](/estrutura%20de%20dados%20com%20javascript/)
+[Estrutura de dados com javascript](/estrutura%20de%20dados%20com%20javascript/) <br>
+[Beecrowd](/beecrowd/)
