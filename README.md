@@ -36,4 +36,4 @@ Repositório dedicado para auxiliar nos meus estudos, registrar meus aprendizado
 
 [Estrutura de dados com javascript](/estrutura%20de%20dados%20com%20javascript/) <br>
 [Beecrowd](/beecrowd/) <br>
-[Praticando fundamentos](/praticando_fundamentos)
+[Praticando fundamentos](/praticando_fundamentos/)
